@@ -7,6 +7,8 @@ for mac user: `brew install jq`
 2. Run `build.sh` (on Linux) or `build.bat` (on Windows).
 3. Zip archive will be created.
 
+**For windows User: This batch needs `jq-win64.exe`. If you selected other version or other name, you need change batch file.**
+
 # install
 ## Release Version
 - 準備中
