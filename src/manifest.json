@@ -1,0 +1,20 @@
+{
+	"manifest_version":2,
+	"name":"TCU_Attend_Chrome",
+	"version":"1.0.0",
+	
+	"description":"chrome拡張でTCU出席管理システムを表示する奴です",
+	"icons": {
+		"16":"icon_16x16.ico"
+		},
+	
+	"browser_action": {
+			"default_icon":"icon_400x400.png",
+			"default_title":"",
+			"default_popup":"index.html"
+	},
+	
+	
+	"permissions":["tabs","https://call.off.tcu.ac.jp/*"]
+	
+	}
